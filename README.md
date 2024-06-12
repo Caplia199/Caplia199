@@ -2,7 +2,7 @@
 <h3 align="center">Quality assurance engineer.</h3>
 
 
-- 💬&nbsp;I'm interested **Playwright / TypeScript**
+- 💬&nbsp;I'm interested **Playwright / JavaScript / TypeScript**
 
 ### Blogs posts
 
