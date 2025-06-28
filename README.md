@@ -11,7 +11,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Caplia199&show_icons=true&count_private=true" alt="Caplia199" width="50%"/></p>
 
 <p align="center">
-<a href="https://dev.to/Caplia199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Caplia199" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/rodionov-qa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rodionov-qa/" height="30" width="30" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=Caplia199" alt="Caplia199" />
 </p>
